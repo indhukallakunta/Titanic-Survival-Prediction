@@ -18,6 +18,3 @@ Python, Pandas, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook
   ```bash
   pip install -r requirements.txt
   jupyter notebook
-
-#📊 Dataset
-Titanic Dataset - Kaggle
