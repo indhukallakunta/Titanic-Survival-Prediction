@@ -19,5 +19,5 @@ Python, Pandas, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook
   pip install -r requirements.txt
   jupyter notebook
 
-📊 Dataset
+#📊 Dataset
 Titanic Dataset - Kaggle
