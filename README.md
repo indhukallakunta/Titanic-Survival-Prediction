@@ -15,9 +15,9 @@ A classification model that predicts whether a passenger survived the Titanic di
 Python, Pandas, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook
 
 ## ▶️ How to Run
-```bash
-pip install -r requirements.txt
-jupyter notebook
+  ```bash
+  pip install -r requirements.txt
+  jupyter notebook
 
 📊 Dataset
 Titanic Dataset - Kaggle
